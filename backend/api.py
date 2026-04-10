@@ -18,8 +18,6 @@ from fastapi import FastAPI, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
 from typing import Literal
-from dotenv import load_dotenv
-load_dotenv()
 
 from .data_loader import (
     get_patients,
