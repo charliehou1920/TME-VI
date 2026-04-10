@@ -1,8 +1,8 @@
 ---
 title: TME-VI · Tumor Immune Escape Decoder
 emoji: 🔬
-colorFrom: teal
-colorTo: blue
+colorFrom: blue
+colorTo: green
 sdk: docker
 pinned: false
 license: mit
